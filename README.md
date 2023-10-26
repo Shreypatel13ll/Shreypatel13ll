@@ -15,6 +15,10 @@ I'm a passionate [Software Engineer], and I love to []. Here's a bit about me:
 - **Frameworks and Libraries**: React, Node, Express, MUI, Next.
 - **Databases**: MongoDb, Sql.
 
+## 🌟 My Contributions
+
+- [Chromium](https://chromium-review.googlesource.com/c/chromium/src/+/4881903): Added support for arrow keys in media play
+
 ## 🌟 Projects
 
 Here are some of the projects I'm proud of:
