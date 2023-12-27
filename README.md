@@ -13,7 +13,7 @@ I'm a passionate [Software Engineer], and I love to []. Here's a bit about me:
 
 - **Programming Languages**: JS, C, C++, Python, Java.
 - **Frameworks and Libraries**: React, Node, Express, MUI, Next.
-- **Databases**: MongoDb, Sql.
+- **Databases**: MongoDb, PSql.
 
 ## 🌟 My Contributions
 
