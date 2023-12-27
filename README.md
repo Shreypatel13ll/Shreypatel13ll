@@ -1,4 +1,4 @@
-# Hi, I'm [Shrey]
+# Hi, I'm Shrey
 
 
 I'm a passionate [Software Engineer], and I love to []. Here's a bit about me:
