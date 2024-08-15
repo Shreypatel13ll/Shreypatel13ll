@@ -11,8 +11,8 @@ I'm a passionate Software Engineer, and I love to code. Here's a bit about me:
 
 ## 🚀 My Skills
 
-- **Programming Languages**: JS, C, C++, Python, Java.
-- **Frameworks and Libraries**: React, Node, Express, MUI, Next.
+- **Programming Languages**: JS, C, C++.
+- **Frameworks and Libraries**: React, Node, Express, MUI.
 - **Databases**: MongoDb, PSql.
 
 ## 🌟 My Contributions
