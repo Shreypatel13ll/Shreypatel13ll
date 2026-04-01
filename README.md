@@ -1,13 +1,9 @@
 # Hi, I'm Shrey
-
-
 I'm a passionate Software Engineer, and I love to code. Here's a bit about me:
 
-- 🔭 I'm currently working in Vijigi Energy as a backend engineer.
+- 🔭 I'm currently working in Vijigi Energy as a software engineer.
 - 🌱 I'm constantly learning and exploring new technologies and tools.
-- 💬 Ask me about frontend or backend development.
-- 📫 You can reach me at shrey.b@ahduni.edu.in.
-- 😄 Pronouns: he/him.
+- 📫 You can reach me at shrey.bhadja.l.l@gmail.com
 
 ## 🚀 My Skills
 
